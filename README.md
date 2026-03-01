@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Instagram-@DAILESSANTOSONLINE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dailes-santos-30378412a">
-    <img src="https://img.shields.io/badge/LinkedIn-DAILES SANTOSO-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-DAILES SANTOS-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
