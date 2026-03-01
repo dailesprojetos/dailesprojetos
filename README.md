@@ -1,4 +1,4 @@
-## Olá!! Sou Dailes Santos 👋
+## Hello!! I'm Dailes Santos 👋
 
 - 🔭 Software Developer - Full Stack
 - 🌱 Bachelor's degree in Information Systems
