@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://github.com/dailesprojetos">
-    <img src="https://img.shields.io/badge/GitHub-DAILES SANTOS-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-DAILESPROJETOS-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/dailes.santos.online">
     <img src="https://img.shields.io/badge/Instagram-@DAILESSANTOSONLINE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
