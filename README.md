@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá!! Sou Dailes Santos 👋
 
-<!--
-**dailesprojetos/dailesprojetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Software Developer - Full Stack
+- 🌱 Bachelor's degree in Information Systems
+- 👯 Postgraduate degree in Software Engineering/DevOps/Cloud...
+- 📫 Contact email: dailessantosonline@gmail.com
+- 💬 Development of Enterprise Software using Languages ​​(BackEnd/FrontEnd)
+- 😄 Pronouns: he/him
+- ⚡ Always seeking updates in IT
 
-Here are some ideas to get you started:
+## 🌐 Where To Find Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/dailesprojetos">
+    <img src="https://img.shields.io/badge/GitHub-DAILES SANTOS-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/dailes.santos.online">
+    <img src="https://img.shields.io/badge/Instagram-@DAILESSANTOSONLINE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dailes-santos-30378412a">
+    <img src="https://img.shields.io/badge/LinkedIn-DAILES SANTOSO-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
